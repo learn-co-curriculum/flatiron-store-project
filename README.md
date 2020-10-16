@@ -57,4 +57,3 @@ For more information, check out [`:class_name`][class_name] and [`:foreign_key`]
 [StackOverflow]: https://stackoverflow.com/a/41135173
 [SitePoint]: https://www.sitepoint.com/brush-up-your-knowledge-of-rails-associations/
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/flatiron-store-project'>Flatiron Store Project</a> on Learn.co and start learning to code for free.</p>
